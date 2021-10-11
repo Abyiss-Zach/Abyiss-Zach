@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Abyiss-Zach
 - 👀 I’m interested in stocks, crypto, big data, development, automation, and golf
-- 🌱 I’m currently learning how to develop a startup from the ground up
 - 💞️ I’m looking to collaborate on project that yield growth experience
 - 👀 My Abyiss Repos are Private - feel free to reach out to reach out and I will happily show off some projects
 - 📫 How to reach me zach@abyiss.com or zach@zachrobert.com
